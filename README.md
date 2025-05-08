@@ -1,4 +1,4 @@
-Welcome to my collection of solutions for various monthly online puzzles, including the Jane Street monthly puzzle. Whether you're here to learn, explore, or simply satisfy your curiosity, I hope you find value in these solutions.
+Welcome to my collection of solutions for various monthly online puzzles, for example the Jane Street monthly puzzle. Whether you're here to learn, explore, or simply satisfy your curiosity, I hope you find value in these solutions.
 
 ## Posting Guidelines:
 To maintain fairness and avoid spoilers, I follow these principles:
